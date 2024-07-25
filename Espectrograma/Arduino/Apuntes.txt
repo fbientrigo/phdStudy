@@ -1,0 +1,21 @@
+# Prototipado
+Es posible usar lo hecho en Arduino para diseñar circuitos finales
+
+# Pines digitales
+Activar y desactivar corrientes: ON/OFF
+
+# Pines analogos
+Para sensores que tengan valores continuos
+
+___ Ideas fun Youtube ___
+Una red neuronal con Arduino
+Simple perceptron que supere a 1980 best perceptrons.
+y comparativas
+
+// calcular la constante de Planck con Arduino
+
+# Se listan las partes del arduino y programar
+int, float, String, bool, unsigned long
+
+ // char c[] = "Hola";
+
